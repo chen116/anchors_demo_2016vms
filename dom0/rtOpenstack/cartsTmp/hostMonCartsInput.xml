@@ -1,0 +1,14 @@
+<system max_period="1" min_period="1" os_scheduler="EDF">
+                <component max_period="400" min_period="400" name="825354fa-1fab-4ec7-88fb-beba8975ce77" scheduler="EDF">
+                        <task cs="0" d="400" e="150" name="t1" p="400">     </task>
+                </component>
+        <component max_period="400" min_period="400" name="a5784bfb-8851-4269-9d80-9cf0c4f8b8c2" scheduler="EDF">
+                        <task cs="0" d="400" e="250" name="t1" p="400">     </task>
+                </component>
+        <component max_period="400" min_period="400" name="0fa0bf01-60d6-498f-a4c5-d05539b400b8" scheduler="EDF">
+                        <task cs="0" d="400" e="10" name="t1" p="400">     </task>
+                </component>
+        <component max_period="400" min_period="400" name="fd651f31-6503-482c-b86c-b9e8c25505e9" scheduler="EDF">
+                        <task cs="0" d="400" e="200" name="t1" p="400">     </task>
+                </component>
+        </system>

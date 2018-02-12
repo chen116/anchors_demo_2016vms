@@ -1,0 +1,10 @@
+{
+    "modeName": "3", 
+    "taskExecTimes": [
+        200
+    ], 
+    "taskPeriods": [
+        400
+    ], 
+    "appName": "sar"
+}
